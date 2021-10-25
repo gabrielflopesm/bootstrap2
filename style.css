@@ -68,3 +68,16 @@ h1 {
     color: white;
 
 }
+
+@media (max-width: 768px) {
+    .cards-section {
+        display: block;
+    }
+
+    .card {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 10px;
+
+    }
+}
