@@ -1,7 +1,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    background-image: linear-gradient(to bottom right, #00f490, #00bbc9);
+     background-image: linear-gradient(to bottom right, #00f490, #00bbc9); 
 
 }
 
@@ -61,4 +61,10 @@ h1 {
     display: flex;
     justify-content: center;
     padding: 10px 5px;
+}
+
+.card {
+    background-image: linear-gradient(to bottom right, #00f490, #00bbc9);
+    color: white;
+
 }
